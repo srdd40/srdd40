@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi, I'm Stefanie Banner](https://github.com/srdd40/srdd40/blob/main/header.png?raw=true "Hi, I'm Stefanie")
 ## This a WIP, content will follow soon!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srdd40&layout=compact)](https://github.com/srdd40/github-readme-stats)
